@@ -1,0 +1,29 @@
+//color
+@import "skin/1";
+
+$color-warning: #ff8022;
+$color-link: #488ff9;
+
+
+$color-99: #999;
+$color-66: #666;
+$color-ff: #fff;
+$color-fb: #fbfbfb;
+$color-ee: #eee;
+$color-dd: #ddd;
+$color-e4: #e4e4e4;
+$color-33: #333;
+$color-dc: #dcdcdc;
+$color-cc: #ccc;
+$color-f9: #f9f9f9;
+$color-f5: #f5f5f5;
+$color-e5: #e5e5e5;
+$color-df: #dfdfdf;
+$color-fd: #fdfdfd;
+
+//font
+
+$fontEN:-apple-system-font,"Helvetica Neue";
+$fontCN:"PingFang SC","Hiragino Sans GB","Microsoft YaHei";
+$fontSans:sans-serif;
+$fontDefault:$fontEN,$fontSans;
